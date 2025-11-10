@@ -1,2 +1,5 @@
-# r-t-m-n
-vào là rớt môn
+#include <stdio.h>
+int main(){
+    printf("hello world!");
+    return 0;
+}
